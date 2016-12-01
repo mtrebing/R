@@ -1,4 +1,4 @@
 # This is a test script
-a <- rnorm(100)
+a <- rnorm(200)
 plot(a)
 
