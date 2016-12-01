@@ -5,5 +5,5 @@ plot(a)
 =======
 a <- rnorm(100)
 plot(a)
-
+# just a second note
 >>>>>>> e738fe54e515e752ec8a04a4023c3b85707ba5c8
