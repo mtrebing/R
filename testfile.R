@@ -4,4 +4,9 @@ plot(a)
 # new comment
 a <- rnorm(100)
 plot(a)
+<<<<<<< HEAD
 
+=======
+# just a second note
+>>>>>>> e738fe54e515e752ec8a04a4023c3b85707ba5c8
+>>>>>>> dbf1199c61a795b07098ccbd6838279b408f3807
